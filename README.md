@@ -1,6 +1,6 @@
 # Wood-board-cutting-app-CNC-machine
 
-Desktop application and CNC machine built and programmed in C from scratch, to help cutting rectangular pieces of wood from a large piece with minimal waste.
+Desktop application (built with Java) and CNC machine built and programmed in C from scratch, to help cutting rectangular pieces of wood from a large piece with minimal waste.
 
 The user gives the application the size of the large piece of wood, and the sizes of the pieces he wants to cut.
 
