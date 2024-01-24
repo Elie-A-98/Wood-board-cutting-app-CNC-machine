@@ -1,5 +1,12 @@
 # Wood-board-cutting-app-CNC-machine
 
+# Full Report Link
+
+https://github.com/Elie-A-98/Wood-board-cutting-app-CNC-machine/blob/8a9bf4ba8d75749f79d4995edb755f94a52268c4/Report.pdf
+
+
+# Description
+
 Desktop application (built with Java) and CNC machine built and programmed in C from scratch, to help cutting rectangular pieces of wood from a large piece with minimal waste.
 
 The user gives the application the size of the large piece of wood, and the sizes of the pieces he wants to cut.
